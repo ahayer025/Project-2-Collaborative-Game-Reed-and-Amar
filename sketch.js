@@ -119,7 +119,7 @@ function draw() {
 }
 
 function game() {
-  tankspeed = 1;
+  tankspeed = 2;
   runnerspeed = 3;
 
   for (let i = 0; i < bubbles.length; i++) {
